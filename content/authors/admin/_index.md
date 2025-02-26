@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 剑锋 朱
+title: JianFeng Zhu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Feng Zhu
+name_pronunciation: [ChienFeng Zhu]
 
 # Full name (for SEO)
 first_name: Jianfeng
